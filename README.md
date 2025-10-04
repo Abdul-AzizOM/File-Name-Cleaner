@@ -41,7 +41,7 @@ pip install customtkinter
 
 Run the program:
 
-python deleter.py
+python "file name cleaner.py"
 
 
 In the GUI:
