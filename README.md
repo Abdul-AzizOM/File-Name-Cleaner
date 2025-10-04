@@ -28,7 +28,7 @@ This makes it ideal for cleaning up messy filenames, organizing bulk downloads, 
 
 Clone or download this repository:
 
-git clone https://github.com/yourusername/File-Name-Cleaner.git
+git clone https://github.com/Abdul-AzizOM/File-Name-Cleaner.git
 cd File-Name-Cleaner
 
 
